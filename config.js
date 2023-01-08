@@ -10,15 +10,15 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320'] //ur number 
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
+global.Owner = ['918822654670'] //ur number 
+global.OwnerNumber = ['918822654670']
+global.ownertag = ['918822654670']
 global.BotName = "ZenitsuBot" //ur bot name 
 global.packname = "ZenitsuBot"
-global.author = "🦄Dream Guy Deepak" //ur sticker pack name 
-global.OwnerName = "🦄Dream Guy Deepak" //ur name
-global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
-global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
+global.author = "ITACHI" //ur sticker pack name 
+global.OwnerName = "AXM" //ur name
+global.BotSourceCode = "https://youtube.com/@arcdanimate6174" //ur website link
+global.SupportGroupLink = "https://chat.whatsapp.com/Cxoqa9ACBERGd1OtYYaoRO" //ur group link 
 global.sessionName = "session"
 
 // Prefix //
@@ -26,7 +26,7 @@ global.sessionName = "session"
 global.prefa = ['.'] 
 
 
-global.location = "Darjeeling, India"
+global.location = "Assam, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://i.ibb.co/vXnjzpr/cheemspic.jpg' }
